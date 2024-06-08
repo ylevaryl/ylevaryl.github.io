@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ylevaryl.github.io/sitemap.html
+Sitemap: https://ylevaryl.github.io/app/sitemap.html
+Sitemap: https://ylevaryl.github.io/assets/sitemap.html
+Sitemap: https://ylevaryl.github.io/includes/sitemap.html
+Sitemap: https://ylevaryl.github.io/src/sitemap.html
